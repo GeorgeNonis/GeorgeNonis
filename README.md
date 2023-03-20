@@ -5,7 +5,7 @@
 ### <h3>Things I code with</h3>
 
 <p>
-  <img alt="TypeScript" src="./imgs/typescript.png" width="13"/>
+  <img alt="TypeScript" src="./imgs/typescript.png" width="20"/>
   <img alt="Javascript" src="./imgs/javascript.gif" width="13"/>
   <img alt="React" src="./imgs/react.png" width="13"/>
   <img alt="ThreeJs" src="./imgs/threejs.svg" width="13"/>
