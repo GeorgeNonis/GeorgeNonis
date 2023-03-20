@@ -47,7 +47,7 @@ Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` 
 
 ### <h1>Where to find me</h1>
 
-<p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="./imgs/link.gif" /></a>
+<p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
 </p>
 
 <!--
