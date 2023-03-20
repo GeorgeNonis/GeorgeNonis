@@ -37,9 +37,11 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` \
 <br/>
 
-### :bulb: <h3>Desire for Mastery</h3> :bulb:
+### <h3> :bulb: Desire for Mastery :bulb:</h3>
 
-  <h3>As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further. </h3>
+  <h3>:speaking_head:As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further. </h3>
+
+### <h1>Feel free to contact me to collaborate!:slightly_smiling_face:</h1>
 
 ### <h1>Where to find me</h1>
 
