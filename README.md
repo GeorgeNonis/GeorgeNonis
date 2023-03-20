@@ -22,7 +22,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="NoniGlobal" src="https://static.vecteezy.com/system/resources/thumbnails/011/543/048/small/cute-laptop-for-sticker-isolated-cartoon-object-illustration-flat-style-sticker-icon-design-premium-logo-vector.jpg"/>]
+<img align="left" height="94px" width="94px" alt="NoniGlobal" src="https://static.vecteezy.com/system/resources/thumbnails/011/543/048/small/cute-laptop-for-sticker-isolated-cartoon-object-illustration-flat-style-sticker-icon-design-premium-logo-vector.jpg"/>
 
 **React Developer (SRE)** \
 [**Nina Global**] • Fulltime \
