@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img src='./imgs/funnyimage.jpg' width='80' height='80'/>.</h1>
 
 ### <p>Welcome to my page! </br> I'm Giorgos, Fullstack Developer from <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/gr.png" width="13"/> <b>Greece</b>, currently living in <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/dk.png" width="13"/> <b>Aarhus, Denmark</b>. </p>
 
-### <h1>Things I code with</h1>
+### <h1>My tech stack which I work with</h1>
 
 <p>
   <img alt="TypeScript" src="./imgs/typescript.png" width="50"/>
@@ -39,7 +39,7 @@ Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` 
 
 ### <h3> :bulb: Desire for Mastery :bulb:</h3>
 
-  <h3>:speaking_head:As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further. </h3>
+  <h3>:speaking_head:As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further.:fire: </h3>
 
 ### <h1>Feel free to contact me to collaborate!:slightly_smiling_face:</h1>
 
