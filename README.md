@@ -5,24 +5,24 @@
 ### <h3>Things I code with</h3>
 
 <p>
-  <img alt="TypeScript" src="./imgs/typescript.png" />
-  <img alt="Javascript" src="./imgs/javascript.gif" />
-  <img alt="React" src="./imgs/react.png" />
-  <img alt="ThreeJs" src="./imgs/threejs.svg" />
-  <img alt="redux" src="./imgs/redux.png" />
-  <img alt="github actions" src="./imgs/github.png" />
-  <img alt="git" src="./imgs/git.png" />
-  <img alt="figma" src="./imgs/figma.png" />
-  <img alt="GraphQL" src="./imgs/graphql.png" />
-  <img alt="Mobx" src="./imgs/mobx.png" />
-  <img alt="Sass" src="./imgs/sass.png" />
-  <img alt="Css" src="./imgs/css3.png" />
-  <img alt="npm" src="./imgs/npm.png" />
-  <img alt="html5" src="./imgs/html5.png" />
-  <img alt="Prettier" src="./imgs/prettier.png" />
-  <img alt="Nodejs" src="./imgs/nodejs.png" />
-  <img alt="Expressjs" src="./imgs/expressjs.png" />
-  <img alt="MongoDB" src="./imgs/mongodb.png" />
+  <img alt="TypeScript" src="./imgs/typescript.png" width="13"/>
+  <img alt="Javascript" src="./imgs/javascript.gif" width="13"/>
+  <img alt="React" src="./imgs/react.png" width="13"/>
+  <img alt="ThreeJs" src="./imgs/threejs.svg" width="13"/>
+  <img alt="redux" src="./imgs/redux.png" width="13"/>
+  <img alt="github actions" src="./imgs/github.png" width="13"/>
+  <img alt="git" src="./imgs/git.png" width="13"/>
+  <img alt="figma" src="./imgs/figma.png" width="13"/>
+  <img alt="GraphQL" src="./imgs/graphql.png" width="13"/>
+  <img alt="Mobx" src="./imgs/mobx.png" width="13"/>
+  <img alt="Sass" src="./imgs/sass.png" width="13"/>
+  <img alt="Css" src="./imgs/css3.png" width="13"/>
+  <img alt="npm" src="./imgs/npm.png" width="13"/>
+  <img alt="html5" src="./imgs/html5.png" width="13"/>
+  <img alt="Prettier" src="./imgs/prettier.png" width="13"/>
+  <img alt="Nodejs" src="./imgs/nodejs.png" width="13"/>
+  <img alt="Expressjs" src="./imgs/expressjs.png" width="13"/>
+  <img alt="MongoDB" src="./imgs/mongodb.png" width="13"/>
 </p>
 
 ### Work Experience
