@@ -19,6 +19,20 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+**React Developer (SRE)** \
+[**Nina Global**] • Fulltime \
+Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true](https://static.vecteezy.com/system/resources/thumbnails/011/543/048/small/cute-laptop-for-sticker-isolated-cartoon-object-illustration-flat-style-sticker-icon-design-premium-logo-vector.jpg)"/>]
+
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
