@@ -36,7 +36,7 @@ In the overview below you will find my most recent work experience:
 <img align="left" height="94px" width="94px" alt="NoniGlobal" src="./imgs/ninaglobal.jpg"/>
 
 **React Developer (FE Dev)** \
-[**Nina Global**] • Fulltime \
+**Nina Global** • Fulltime \
 Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` \
 <br/>
 
@@ -48,7 +48,7 @@ Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` 
 
 ### <h1>Where to find me</h1>
 
-<p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
+<p>&emsp; &emsp; <a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a>&emsp; &emsp;<a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank" margin-left="20"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
 </p>
 
 <!--
