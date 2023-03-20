@@ -5,24 +5,24 @@
 ### <h3>Things I code with</h3>
 
 <p>
-  <img alt="TypeScript" src="./imgs/typescript.png" width="20"/>
-  <img alt="Javascript" src="./imgs/javascript.gif" width="13"/>
-  <img alt="React" src="./imgs/react.png" width="13"/>
-  <img alt="ThreeJs" src="./imgs/threejs.svg" width="13"/>
-  <img alt="redux" src="./imgs/redux.png" width="13"/>
-  <img alt="github actions" src="./imgs/github.png" width="13"/>
-  <img alt="git" src="./imgs/git.png" width="13"/>
-  <img alt="figma" src="./imgs/figma.png" width="13"/>
-  <img alt="GraphQL" src="./imgs/graphql.png" width="13"/>
-  <img alt="Mobx" src="./imgs/mobx.png" width="13"/>
-  <img alt="Sass" src="./imgs/sass.png" width="13"/>
-  <img alt="Css" src="./imgs/css3.png" width="13"/>
-  <img alt="npm" src="./imgs/npm.png" width="13"/>
-  <img alt="html5" src="./imgs/html5.png" width="13"/>
-  <img alt="Prettier" src="./imgs/prettier.png" width="13"/>
-  <img alt="Nodejs" src="./imgs/nodejs.png" width="13"/>
-  <img alt="Expressjs" src="./imgs/expressjs.png" width="13"/>
-  <img alt="MongoDB" src="./imgs/mongodb.png" width="13"/>
+  <img alt="TypeScript" src="./imgs/typescript.png" width="50"/>
+  <img alt="Javascript" src="./imgs/javascript.gif" width="50"/>
+  <img alt="React" src="./imgs/react.png" width="50"/>
+  <img alt="ThreeJs" src="./imgs/threejs.svg" width="50"/>
+  <img alt="redux" src="./imgs/redux.png" width="50"/>
+  <img alt="github actions" src="./imgs/github.png" width="50"/>
+  <img alt="git" src="./imgs/git.png" width="50"/>
+  <img alt="figma" src="./imgs/figma.png" width="50"/>
+  <img alt="GraphQL" src="./imgs/graphql.png" width="50"/>
+  <img alt="Mobx" src="./imgs/mobx.png" width="50"/>
+  <img alt="Sass" src="./imgs/sass.png" width="50"/>
+  <img alt="Css" src="./imgs/css3.png" width="50"/>
+  <img alt="npm" src="./imgs/npm.png" width="50"/>
+  <img alt="html5" src="./imgs/html5.png" width="50"/>
+  <img alt="Prettier" src="./imgs/prettier.png" width="50"/>
+  <img alt="Nodejs" src="./imgs/nodejs.png" width="50"/>
+  <img alt="Expressjs" src="./imgs/expressjs.png" width="50"/>
+  <img alt="MongoDB" src="./imgs/mongodb.png" width="50"/>
 </p>
 
 ### Work Experience
