@@ -1,10 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Giorgos, Fullstack Developer from <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/gr.png" width="13"/> <b>Greece</b>, currently living in <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/dk.png" width="13"/> <b>Aarhus, Denmark</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="./imgs/react.png" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -20,6 +19,7 @@
 </p>
 
 ### Work Experience
+
 In the overview below you will find my most recent work experience:
 
 <img align="left" height="94px" width="94px" alt="NoniGlobal" src="https://static.vecteezy.com/system/resources/thumbnails/011/543/048/small/cute-laptop-for-sticker-isolated-cartoon-object-illustration-flat-style-sticker-icon-design-premium-logo-vector.jpg"/>
@@ -28,7 +28,6 @@ In the overview below you will find my most recent work experience:
 [**Nina Global**] • Fulltime \
 Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` \
 <br/>
-
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
