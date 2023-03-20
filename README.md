@@ -19,6 +19,7 @@
   <img alt="Mobx" src="./imgs/mobx.png" width="50"/>
   <br/>
   <img alt="Sass" src="./imgs/sass.png" width="50"/>
+  <img alt="Tailwind" src="./imgs/tailwindcss.png" width="50"/>
   <img alt="Css" src="./imgs/css3.png" width="50"/>
   <img alt="npm" src="./imgs/npm.png" width="50"/>
   <img alt="html5" src="./imgs/html5.png" width="50"/>
@@ -47,7 +48,7 @@ Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` 
 
 ### <h1>Where to find me</h1>
 
-<p><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
+<p display='grid' ><a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a> <a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
 </p>
 
 <!--
