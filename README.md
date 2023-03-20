@@ -1,4 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img src='./imgs/funnyimage.jpg' width='200' height='200'/>.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+ <img src='./imgs/funnyimage.jpg' width='350' height='350'/>
 
 ### <p>Welcome to my page! </br> I'm Giorgos, Fullstack Developer from <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/gr.png" width="13"/> <b>Greece</b>, currently living in <img src="https://github.com/csmoore/country-flag-icons/blob/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-png/dk.png" width="13"/> <b>Aarhus, Denmark</b>. </p>
 
