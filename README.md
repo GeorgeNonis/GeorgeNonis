@@ -9,14 +9,14 @@
 <p>
   <img alt="TypeScript" src="./imgs/typescript.png" width="50"/>
   <img alt="Javascript" src="./imgs/javascript.gif" width="50"/>
+  <img alt="NextJs" src="./imgs/next.png" width="50"/>
   <img alt="React" src="./imgs/react.png" width="50"/>
-  <img alt="ThreeJs" src="./imgs/threejs.svg" width="50"/>
   <img alt="redux" src="./imgs/redux.png" width="50"/>
+  <img alt="ThreeJs" src="./imgs/threejs.svg" width="50"/>
   <img alt="github actions" src="./imgs/github.png" width="50"/>
   <img alt="git" src="./imgs/git.png" width="50"/>
   <img alt="figma" src="./imgs/figma.png" width="50"/>
-  <img alt="GraphQL" src="./imgs/graphql.png" width="50"/>
-  <img alt="Mobx" src="./imgs/mobx.png" width="50"/>
+  <img alt="Jest" src="./imgs/jest.png" width="50"/>
   <br/>
   <img alt="Sass" src="./imgs/sass.png" width="50"/>
   <img alt="Tailwind" src="./imgs/tailwindcss.png" width="50"/>
@@ -37,7 +37,7 @@ In the overview below you will find my most recent work experience:
 
 **React Developer (FE Dev)** \
 **Nina Global** • Fulltime \
-Languages & Technologies: `Typescript`, `React`, `Mobx`, `GraphQl`, `EmotionJs` \
+Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React` \
 <br/>
 
 ### <h3> :bulb: Desire for Mastery :bulb:</h3>
