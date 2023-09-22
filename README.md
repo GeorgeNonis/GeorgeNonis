@@ -35,9 +35,19 @@ In the overview below you will find my most recent work experience:
 
 <img align="left" height="94px" width="94px" alt="NoniGlobal" src="./imgs/ninaglobal.jpg"/>
 
-**React Developer (FE Dev)** \
-**Nina Global** • Fulltime \
-Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React` \
+**IT Technician** \
+**APK Garage - Nicosia,Cyprus** • Fulltime \
+Tools & Platforms: `Windows OS, MacOS, Hardware Diagnostics Tools` \
+<br/>
+
+**Frontend Developer** \
+**Nina Global - Nicosia,Cyprus** • Fulltime \
+Languages & Technologies: `Typescript`, `ReactJs`,`Mobx`, `GraphQL`, `EmotionJs` \
+<br/>
+
+**Frontend Developer** \
+**Raskrask - Aarhus,Denmark** • Internship \
+Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React`, `Cypress`, `Jest`, `Ionic` `Framework`, `Ionic`, `JavaScript` \
 <br/>
 
 ### <h3> :bulb: Desire for Mastery :bulb:</h3>
