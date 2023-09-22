@@ -35,14 +35,24 @@ In the overview below you will find my most recent work experience:
 
 <img align="left" height="94px" width="94px" alt="NoniGlobal" src="./imgs/ninaglobal.jpg"/>
 
-**React Developer (FE Dev)** \
-**Nina Global** • Fulltime \
-Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React` \
+**IT Technician** \
+**APK Garage - Nicosia,Cyprus** • Fulltime \
+Tools & Platforms: `Windows OS, MacOS, Hardware Diagnostics Tools` \
+<br/>
+
+**Frontend Developer** \
+**Nina Global - Nicosia,Cyprus** • Fulltime \
+Languages & Technologies: `Typescript`, `ReactJs`,`Mobx`, `GraphQL`, `EmotionJs` \
+<br/>
+
+**Frontend Developer** \
+**Raskrask - Aarhus,Denmark** • Internship \
+Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React`, `Cypress`, `Jest`, `Ionic` `Framework`, `Ionic`, `JavaScript` \
 <br/>
 
 ### <h3> :bulb: Desire for Mastery :bulb:</h3>
 
-  <h3>:speaking_head:As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further.:fire: </h3>
+  <h3>:speaking_head:I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further.:fire: </h3>
 
 ### <h1>Feel free to contact me to collaborate!:slightly_smiling_face:</h1>
 
