@@ -11,6 +11,7 @@
   <img alt="Javascript" src="./imgs/javascript.gif" width="50"/>
   <img alt="NextJs" src="./imgs/next.png" width="50"/>
   <img alt="React" src="./imgs/react.png" width="50"/>
+  <img alt="Ionic" src="./imgs/ionic.png" width="50"/>
   <img alt="redux" src="./imgs/redux.png" width="50"/>
   <img alt="ThreeJs" src="./imgs/threejs.svg" width="50"/>
   <img alt="github actions" src="./imgs/github.png" width="50"/>
@@ -29,17 +30,6 @@
   <img alt="MongoDB" src="./imgs/mongodb.png" width="50"/>
 </p>
 
-### Work Experience
-
-In the overview below you will find my most recent work experience:
-
-<img align="left" height="94px" width="94px" alt="NoniGlobal" src="./imgs/ninaglobal.jpg"/>
-
-**React Developer (FE Dev)** \
-**Nina Global** • Fulltime \
-Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/React` \
-<br/>
-
 ### <h3> :bulb: Desire for Mastery :bulb:</h3>
 
   <h3>:speaking_head:As a self-taught developer, I am constantly driven by my curiosity and desire to understand how things work :books:. I am hungry to learn and passionate about developing my skills and knowledge in coding :keyboard: . I believe that being good at something is not enough, and I am always striving to improve and become the best I can be. I am committed to continuous learning and growth, and I am excited to take on new challenges and opportunities to push myself further.:fire: </h3>
@@ -48,7 +38,7 @@ Languages & Technologies: `Typescript`, `NextJs`, `ReactJs`, `Redux`, `Stitches/
 
 ### <h1>Where to find me</h1>
 
-<p>&emsp; &emsp; <a href="https://github.com/GeorgeNonis" target="_blank"><img alt="Github" src="./imgs/github.png" /></a>&emsp; &emsp;<a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank" margin-left="20"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
+<p>&emsp; &emsp; <a href="https://giorgosnonis.com/" target="_blank"><img alt="Github" src="./imgs/logo.png" /></a>&emsp; &emsp;<a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank" margin-left="20"><img alt="LinkedIn" src="./imgs/linkedin.png" /></a>
 </p>
 
 <!--
