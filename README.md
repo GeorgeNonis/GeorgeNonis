@@ -38,7 +38,7 @@
 
 ### <h1>Where to find me</h1>
 
-<p>&emsp; &emsp; <a href="https://giorgosnonis.com/"  target="_blank"><img width="50" alt="Github" src="./imgs/logo.png" /></a>&emsp; &emsp;<a href="https://www.linkedin.com/in/george-nonis-697430234/" target="_blank" margin-left="20"><img width="50"  alt="LinkedIn" src="./imgs/linkedin.png" /></a>
+<p>&emsp; &emsp; <a href="https://giorgos-nonis.vercel.app/"  target="_blank"><img width="50" alt="Github" src="./imgs/logo.png" /></a>&emsp; &emsp;<a href="https://www.linkedin.com/in/george-nonis/" target="_blank" margin-left="20"><img width="50"  alt="LinkedIn" src="./imgs/linkedin.png" /></a>
 </p>
 
 <!--
