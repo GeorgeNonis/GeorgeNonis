@@ -1,2 +1,5 @@
 .cursor/
 AI_GUIDELINES.md
+preview.html
+# Prefer WebP in README; keep GIF local-only if regenerated
+assets/giorgos-scooby-stable-pet.gif
